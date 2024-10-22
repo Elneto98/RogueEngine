@@ -7,7 +7,7 @@ MainLoop = GameLoop:new()
 
 -- Locals
 
-
+-- Main load function
 function love.load()
     MainLoop:init()
     MainLoop:load()
